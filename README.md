@@ -36,3 +36,4 @@ The client runs on `http://localhost:5173` and the API runs on `http://localhost
 
 Registration is accepted only if the event still has enough remaining seats for the requested ticket quantity. The server performs the check with an atomic MongoDB update so two users cannot overbook the same event at the same time.
 # prudhvi-2
+# prudhvi-2
